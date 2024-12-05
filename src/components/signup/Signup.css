@@ -1,0 +1,39 @@
+.background {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid white;
+    border-radius: 30px;
+    text-align: center;
+    place-items: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(247, 245, 245);
+    height: 500px;
+    width: 300px;
+    border-radius: 50px;
+    padding: 20px;
+  
+ 
+}
+
+label {
+    background-color: black;
+    color: white;
+    margin: 2px;
+    padding: 4px;
+    border-radius: 30px;
+}
+
+input {
+    color: white;
+    height: 30px;
+    border-radius: 5px;
+}
+
+h6 {
+    color: black;
+}
